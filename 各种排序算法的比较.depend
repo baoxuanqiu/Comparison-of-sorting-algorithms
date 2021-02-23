@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1580388951 source:c:\codeblocks\各种排序算法的比较\bis.cpp
+	<stdio.h>
+	<time.h>
+
+1580389500 source:c:\codeblocks\各种排序算法的比较\bubble.cpp
+	<stdio.h>
+	<time.h>
+
+1580390109 source:c:\codeblocks\各种排序算法的比较\shell.cpp
+	<stdio.h>
+	<time.h>
+
+1580392038 source:c:\codeblocks\各种排序算法的比较\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1580390109 source:c:\codeblocks\各种排序算法的比较\quick.cpp
+	<stdio.h>
+	<time.h>
+
+1580389866 source:c:\codeblocks\各种排序算法的比较\heap.cpp
+	<stdio.h>
+	<time.h>
+
+1580392039 source:c:\codeblocks\各种排序算法的比较\merge.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1580389500 source:c:\codeblocks\各种排序算法的比较\w_file.cpp
+	<stdio.h>
+	<stdlib.h>
+
